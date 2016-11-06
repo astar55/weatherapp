@@ -1,0 +1,13 @@
+New log file opened at Sat Nov 05 23:32:34 EDT 2016 by 14420@FB
+Taking next connection to: 7367
+New client attempting to connect on port: 7369-7367
+  Address = /192.168.248.1:7367
+This client on port 7369 has uuid 0aecd7c5-93a5-4b3f-91de-6476a1249287 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-0aecd7c5-93a5-4b3f-91de-6476a1249287
+Taking next connection to: 7367
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 14420@FB logs at Sat Nov 05 23:35:34 EDT 2016, goodbye.
